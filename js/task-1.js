@@ -4,3 +4,5 @@ function makeTransaction(quantity, pricePerDroid) {
     return totalPrice = quantity * pricePerDroid;
 }
 
+
+
